@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justinz99
 - 👀 I’m interested in making cool visuals and fun interactions.
-- 🌱 I’m currently learning React/Front-end Development
+- 🌱 I’m currently learning/seeking React/Front-end Development roles.
 - 💞️ I’m looking to collaborate on fun projects that will challenge my creative skillset.
 - 📫 Feel free to email me!
 
