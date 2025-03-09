@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @justinz99
-- 👀 I’m interested in making cool visuals and fun interactions.
-- 🌱 I’m currently learning React/Front-end Development.
-- 💞️ I’m looking to collaborate on fun projects that will challenge my creative skillset.
-- 📫 focusing on my cinema career atm, brb. 
+- ✂️ I'm currently working fulltime as a filmer/editor.
+- 👀 But at my core, I'm interested in making cool visuals and fun interactions.
+- 🌱 Front-end Development has provided me another creative outlet, and I'm excited to see where this will take me.
 
 <!---
 justinz99/justinz99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
