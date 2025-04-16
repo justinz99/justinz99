@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @justinz99
-- ✂️ I'm currently working fulltime as a filmer/editor.
-- 👀 But at my core, I'm interested in making cool visuals and fun interactions.
-- 🌱 Front-end Development has provided me another creative outlet, and I'm excited to see where this will take me.
+- Hi! My name is Justin, I'm currently a full time video editor/filmer. I dabble into the world of front-end development sometimes.
 
+- Websites I've created:
+- [Video Portfolio](https://justinzzhao.work): a collection of my film work
+- [Stall7 Studios](stall7studios.com): a video production start up
+- [Malone Landscaping](https://malonelandscaping.org/): a landscaping company based in Portland, OR
+- 
 <!---
 justinz99/justinz99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
