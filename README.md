@@ -4,7 +4,8 @@
 - [Video Portfolio](https://justinzzhao.work): my film work, hosted on Adobe Portfolio
 - [Stall7 Studios](https://stall7studios.com): a video production start up portfolio
 - [Malone Landscaping](https://malonelandscaping.org): a local landscaping company, ft. a randomized gallery
-- [CLUB FROLIC.](https://clubfrolic.com): a fan sign up page for an upcoming muisc artist Daniyel.
+- [CLUB FROLIC.](https://clubfrolic.com): a fan sign up page for music artist Daniyel.
+- [FROLIC FEST.](https://frolicfest.co): a sign up page for a music event from the artist Daniyel.
   
 <!---
 justinz99/justinz99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
